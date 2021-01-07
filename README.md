@@ -28,7 +28,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Material UI" width="26px" src="https://www.google.com/search?q=material+ui+icon&sxsrf=ALeKk003dAJI2_tb-1XTXpVKA_ibvb9kiQ:1609996133777&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiftpL9honuAhUj4zgGHUXUAAgQ_AUoAXoECAgQAw&biw=1424&bih=661#imgrc=_ZUVF73FnzPLdM" />][website]
+[<img align="left" alt="Material UI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
