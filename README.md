@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Manojgami.com.np-Visit-red)](https://manojgami.com.np)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-10k-blue)](https://twitter.com/saurabhgami)
 
-## I'm a Student, and Developer!!
+## Hi, I'm Saurab Gami, a passionate self-taught frontEnd web developer from Kathmandu, Nepal.!!
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking for React Developer jobs
@@ -35,7 +35,13 @@
 <br />
 <br />
 
----
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Saurab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saurabgami977&show_icons=true&hide_border=true" />
+
+</details>
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://manojgami.com.np
 [twitter]: https://twitter.com/saurabhgami
