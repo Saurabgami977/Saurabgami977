@@ -34,12 +34,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Saurab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabgami977" />
-
-
-
-  
 </details>
-(https://github-readme-stats.vercel.app/api?username=saurabgami977)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://saurabgami.com
