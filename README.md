@@ -4,20 +4,13 @@
 [Twitter][twitter] ||
 [linkedin][linkedin]
 
-## Hi, I'm Saurab Gami, a passionate frontend web developer specialized in React.JS.
+## A passionate frontend web developer specialized in React.JS and learning blockchain development.
 
 - 🌱 I’m JavaScript Develoepr.
 - 👯 Working with React.JS
 - 🥅 2021 Goals: Be fully comfortable with frontend technology and start learning Blockchain development.
 - ⚡ Fun fact: I love swimming and adventures.
 - Trying to write Human readable codes followed by best practises. 
-
-### Connect with me:
-
-[<img align="left" alt="manojgami.com.np" width="22px" src="https://www.kindpng.com/picc/m/379-3793754_world-wide-web-icon-website-logo-vector-free.png" />][website]
-[<img align="left" alt="Saurab Gami | Twitter" width="22px" src="https://i.pinimg.com/474x/ee/4b/ec/ee4bec98e284c251b885707a470ad3b8.jpg" />][twitter]
-[<img align="left" alt="Saurab Gami | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhkna4mbbJfST3hOFvVbcXP-r6qEt297agA&usqp=CAU" />][linkedin]
-[<img align="left" alt="Saurab Gami | Instagram" width="22px" src="https://thumbs.dreamstime.com/b/rounded-instagram-logo-web-print-transparent-white-background-use-printing-purpose-165758567.jpg" />][instagram]
 
 <br />
 
