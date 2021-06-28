@@ -1,14 +1,15 @@
 ### Hi there, I'm [Saurab Gami][linkedin]. 👋
 
-[Website](https://saurabgami.com)
-[Twitter](https://twitter.com/saurabgami977)
+[Website][website] ||
+[Twitter][twitter] ||
+[linkedin][linkedin]
 
-## Hi, I'm Saurab Gami, a passionate frontEnd web developer specialized in React.js from Kathmandu, Nepal.!!
+## Hi, I'm Saurab Gami, a passionate frontend web developer specialized in React.JS.
 
 - 🌱 I’m JavaScript Develoepr.
-- 👯 I’m getting better with React.JS.
-- 🥅 2021 Goals: Be fully comfortable with frontend technology and start learning Python.
-- ⚡ Fun fact: I love swimming and adventures other than programming.
+- 👯 Working with React.JS
+- 🥅 2021 Goals: Be fully comfortable with frontend technology and start learning Blockchain development.
+- ⚡ Fun fact: I love swimming and adventures.
 - Trying to write Human readable codes followed by best practises. 
 
 ### Connect with me:
