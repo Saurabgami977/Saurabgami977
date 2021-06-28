@@ -1,7 +1,7 @@
-### Hi there, I'm Saurab Gami [Saurab][website] 👋
+### Hi there, I'm [Saurab Gami][linkedin]. 👋
 
-[![Website]](https://saurabgami.com)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-10k-blue)](https://twitter.com/saurabhgami)
+[Website](https://saurabgami.com)
+[Twitter](https://twitter.com/saurabgami977)
 
 ## Hi, I'm Saurab Gami, a passionate frontEnd web developer specialized in React.js from Kathmandu, Nepal.!!
 
@@ -45,6 +45,6 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://saurabgami.com
-[twitter]: https://twitter.com/saurabhgami
+[twitter]: https://twitter.com/saurabgami977
 [instagram]: https://www.instagram.com/saurabhgami01/
 [linkedin]: https://www.linkedin.com/in/saurabgami977/
