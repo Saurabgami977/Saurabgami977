@@ -1,6 +1,6 @@
 ### Hi there, I'm Saurab Gami [Saurab][website] 👋
 
-[![Website](https://img.shields.io/badge/Manojgami.com.np-Visit-red)](https://saurabgami.com)
+[![Website]](https://saurabgami.com)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-10k-blue)](https://twitter.com/saurabhgami)
 
 ## Hi, I'm Saurab Gami, a passionate frontEnd web developer specialized in React.js from Kathmandu, Nepal.!!
@@ -47,4 +47,4 @@
 [website]: https://saurabgami.com
 [twitter]: https://twitter.com/saurabhgami
 [instagram]: https://www.instagram.com/saurabhgami01/
-[linkedin]: https://www.linkedin.com/in/saurav-gami-08618b1a0/
+[linkedin]: https://www.linkedin.com/in/saurabgami977/
