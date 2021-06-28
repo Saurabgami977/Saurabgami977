@@ -33,7 +33,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saurab's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saurabgami977&show_icons=true&include_all_commits=true&theme=radical" />
+  <img align="left" alt="Saurab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saurabgami977" />
 
 
 
