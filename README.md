@@ -4,13 +4,13 @@
 [Twitter][twitter] ||
 [linkedin][linkedin]
 
-## A passionate frontend web developer specialized in React.JS and learning blockchain development.
+## A passionate frontend web developer specialized in React.JS.
 
-- 🌱 I’m JavaScript Develoepr.
-- 👯 Working with React.JS
-- 🥅 2021 Goals: Be fully comfortable with frontend technology and start learning Blockchain development.
-- ⚡ Fun fact: I love swimming and adventures.
-- Trying to write Human readable codes followed by best practises. 
+## Strong
+### React.js, Redux, Git/Github, Material-UI
+
+## Experience
+### Node.JS,, Express.JS, Heroku, CI/CD, Docker, MongoDB, Firebase
 
 <br />
 
