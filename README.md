@@ -7,10 +7,10 @@
 ## A passionate frontend web developer specialized in React.JS.
 
 ## Strong
-### React.js, Redux, Git/Github, Material-UI
+### React.js, ReduxJS/Redux Toolkit, Git/Github, Material-UI, Redux Thunk
 
 ## Experience
-### Node.JS,, Express.JS, Heroku, CI/CD, Docker, MongoDB, Firebase
+### Node.JS,, Express.JS, Heroku, CI/CD, Docker, MongoDB, Firebase, React Query, Redux Saga
 
 <br />
 
