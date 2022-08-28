@@ -27,8 +27,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Solidity" width="26px" src="https://solidity-docs-ptbr.readthedocs.io/pt/latest/_images/logo.svg" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="NodeJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/182px-Node.js_logo.svg.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/375px-MongoDB_Logo.svg.png" />][website]
+[<img align="left" alt="NodeJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/182px-Node.js_logo.svg.png" />][website]
+[<img align="left" alt="Terminal" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/375px-MongoDB_Logo.svg.png" />][website]
 <br />
 <br />
 
