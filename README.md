@@ -28,7 +28,7 @@
 [<img align="left" alt="Solidity" width="26px" src="https://solidity-docs-ptbr.readthedocs.io/pt/latest/_images/logo.svg" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="NodeJS" width="40px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" />][website]
-[<img align="left" alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/375px-MongoDB_Logo.svg.png" />][website]
+[<img align="left" alt="MongoDB" width="40px" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />][website]
 <br />
 <br />
 
